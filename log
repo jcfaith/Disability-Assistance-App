@@ -1,0 +1,55 @@
+[1:40:57 PM] [General] [Info] Searching for SDKs...
+[1:40:57 PM] [General] [Info] Environment PATH:
+[1:40:57 PM] [General] [Info]     /opt/local/bin
+[1:40:57 PM] [General] [Info]     /opt/local/sbin
+[1:40:57 PM] [General] [Info]     /Users/Faith/.nvm/versions/node/v11.0.0/bin
+[1:40:57 PM] [General] [Info]     /Library/Frameworks/Python.framework/Versions/3.6/bin
+[1:40:57 PM] [General] [Info]     /Users/Faith/anaconda3/bin
+[1:40:57 PM] [General] [Info]     /Library/Frameworks/Python.framework/Versions/3.6/bin
+[1:40:57 PM] [General] [Info]     /usr/local/bin
+[1:40:57 PM] [General] [Info]     /usr/bin
+[1:40:57 PM] [General] [Info]     /bin
+[1:40:57 PM] [General] [Info]     /usr/sbin
+[1:40:57 PM] [General] [Info]     /sbin
+[1:40:57 PM] [General] [Info]     /Library/Apple/usr/bin
+[1:40:57 PM] [General] [Info] Searching for flutter
+[1:40:57 PM] [General] [Info]     Looking for flutter in:
+[1:40:57 PM] [General] [Info]         /opt/local/bin
+[1:40:57 PM] [General] [Info]         /opt/local/sbin
+[1:40:57 PM] [General] [Info]         /Users/Faith/.nvm/versions/node/v11.0.0/bin
+[1:40:57 PM] [General] [Info]         /Library/Frameworks/Python.framework/Versions/3.6/bin
+[1:40:57 PM] [General] [Info]         /Users/Faith/anaconda3/bin
+[1:40:57 PM] [General] [Info]         /Library/Frameworks/Python.framework/Versions/3.6/bin
+[1:40:57 PM] [General] [Info]         /usr/local/bin
+[1:40:57 PM] [General] [Info]         /usr/bin
+[1:40:57 PM] [General] [Info]         /bin
+[1:40:57 PM] [General] [Info]         /usr/sbin
+[1:40:57 PM] [General] [Info]         /sbin
+[1:40:57 PM] [General] [Info]         /Library/Apple/usr/bin
+[1:40:57 PM] [General] [Info]     Found at:
+[1:40:57 PM] [General] [Info]     Candidate paths to be post-filtered:
+[1:40:57 PM] [General] [Info]     Returning SDK path undefined for flutter
+[1:40:57 PM] [General] [Info] Searching for dart
+[1:40:57 PM] [General] [Info]     Looking for dart in:
+[1:40:57 PM] [General] [Info]         /opt/local/bin
+[1:40:57 PM] [General] [Info]         /opt/local/sbin
+[1:40:57 PM] [General] [Info]         /Users/Faith/.nvm/versions/node/v11.0.0/bin
+[1:40:57 PM] [General] [Info]         /Library/Frameworks/Python.framework/Versions/3.6/bin
+[1:40:57 PM] [General] [Info]         /Users/Faith/anaconda3/bin
+[1:40:57 PM] [General] [Info]         /Library/Frameworks/Python.framework/Versions/3.6/bin
+[1:40:57 PM] [General] [Info]         /usr/local/bin
+[1:40:57 PM] [General] [Info]         /usr/bin
+[1:40:57 PM] [General] [Info]         /bin
+[1:40:57 PM] [General] [Info]         /usr/sbin
+[1:40:57 PM] [General] [Info]         /sbin
+[1:40:57 PM] [General] [Info]         /Library/Apple/usr/bin
+[1:40:57 PM] [General] [Info]     Found at:
+[1:40:57 PM] [General] [Info]     Candidate paths to be post-filtered:
+[1:40:57 PM] [General] [Info]     Returning SDK path undefined for dart
+[1:41:19 PM] [General] [Info] Searching for flutter
+[1:41:19 PM] [General] [Info]     Looking for flutter in:
+[1:41:19 PM] [General] [Info]         /Users/Faith
+[1:41:19 PM] [General] [Info]         /Users/Faith/bin
+[1:41:19 PM] [General] [Info]     Found at:
+[1:41:19 PM] [General] [Info]     Candidate paths to be post-filtered:
+[1:41:19 PM] [General] [Info]     Returning SDK path undefined for flutter
